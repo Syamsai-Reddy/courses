@@ -2,15 +2,15 @@
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { Link } from "react-router-dom";
 
-import Class6 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-6.jpg";
-import Class7 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-7.jpg";
-import Class8 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-8.jpg";
-import Class9 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-9.jpg";
-import Class10 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-10.jpg";
-import Class11 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-11.jpg";
-import Class12 from "C:/Users/Dell/Desktop/internship/CF/src/assets/class-12.jpg";
-import NEET from "C:/Users/Dell/Desktop/internship/CF/src/assets/neet.jpg";
-import JEE from "C:/Users/Dell/Desktop/internship/CF/src/assets/jee.jpg";
+import Class6 from "../../assets/class-6.jpg";
+import Class7 from "../../assets/class-7.jpg";
+import Class8 from "../../assets/class-8.jpg";
+import Class9 from "../../assets/class-9.jpg";
+import Class10 from "../../assets/class-10.jpg";
+import Class11 from "../../assets/class-11.jpg";
+import Class12 from "../../assets/class-12.jpg";
+import NEET from "../../assets/neet.jpg";
+import JEE from "../../assets/jee.jpg";
 
 function CoursesPages() {
   return (
