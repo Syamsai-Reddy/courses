@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import { Link } from "react-router-dom";
-import PHYSICS_IMG from "C:/Users/Dell/Desktop/internship/CF/src/assets/class6-physics.png";
-import MATHS_IMG from "C:/Users/Dell/Desktop/internship/CF/src/assets/claas6-maths.jpg";
+import PHYSICS_IMG from "../../..//assets/class6-physics.png";
+import MATHS_IMG from "../../../assets/claas6-maths.jpg";
 import BIOLOGY_IMG from "../../../assets/class6-biology.jpg";
 
 import CHEMISTRY_IMG from "../../../assets/class6-chemistry.png";
